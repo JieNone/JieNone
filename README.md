@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/fedor-tyurin-699952238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://play.google.com/store/apps/developer?id=Fedor+Tyurin">
+    <img src="https://img.shields.io/badge/Google%20Play-success?style=for-the-badge&logo=google%20play&logoColor=white" alt="Google Play Badge"/>
+  </a>
   <a href="https://t.me/jienone">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
